@@ -1,1 +1,2 @@
-# gcso-project-
+# collisionAlgorithm
+Algorithm to detect collision between two objects
